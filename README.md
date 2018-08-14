@@ -5,7 +5,7 @@ First of all,before you start to use the project,you must follow the instruction
 
 1-You must have Python3 to use this project. I use Python 3.6 through Anaconda 5.0.0
 
-2- In order to setup Selenium package,open command line (CTRL + R) and type:
+2- In order to setup Selenium package,open command line (CTRL + R) and run cmd and run the code below:
 pip install selenium
 
 3-Selenium requires a driver to interface with the chosen browser. Firefox, for example, requires geckodriver, which needs to be installed before the below examples can be run. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin.
